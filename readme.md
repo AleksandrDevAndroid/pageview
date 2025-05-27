@@ -1,11 +1,11 @@
 # Привет, меня зовут Александр! 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://media.![2.jpg](picture/2.jpg)giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </div>
 
 <div align="center">
-  <img src="https://drive.google.com/file/d/1tALKsE_lPqsxCSlyGyCMNk2LUt0jUewz/view?usp=drive_link" alt="My Photo" width="200" style="border-radius: 50%; border: 5px solid #333"/>
+  <img src="picture/2.jpg" alt="My Photo" width="200" style="border-radius: 50%; border: 5px solid #333"/>
 </div>
 
 ## 🚀 Обо мне
@@ -25,8 +25,9 @@
 
 <div align="center">
 
-![Android](https://drive.google.com/file/d/1M-RX2WMclotWa1SuxbMMbC1UBDex7djc/view?usp=drive_link)
-![Java](https://drive.google.com/file/d/1jKcsIhe6YDLitLVRLjrBCTQemd9GugJk/view?usp=drive_link)
+<img src="picture/and.png" alt="My Photo" width="200" style="border-radius: 50%; border: 5px solid #333"/>
+<img src="picture/java.jpg" alt="My Photo" width="200" style="border-radius: 50%; border: 5px solid #333"/>
+
 </div>
 
 ## 📈 Моя статистика GitHub
@@ -44,8 +45,3 @@
 tg @AleksAndroidDev
 </div>
 
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
-
-</div>
