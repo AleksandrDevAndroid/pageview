@@ -26,7 +26,7 @@
 <div align="center">
 
 <img src="picture/and.png" alt="My Photo" width="200" style="border-radius: 50%; border: 5px solid #333"/>
-<img src="picture/java.jpg" alt="My Photo" width="200" style="border-radius: 50%; border: 5px solid #333"/>
+<img src="picture/i.png" alt="My Photo" width="200" style="border-radius: 50%; border: 5px solid #333"/>
 
 </div>
 
